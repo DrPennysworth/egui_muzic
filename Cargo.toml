@@ -1,0 +1,13 @@
+[package]
+name = "egui_muzic"
+version = "0.1.0"
+authors = ["DocP <tonymassing@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.5"
+bevy_egui = "0.6"
+lazy_static = "1.4.0"
+nfd = "0.0.4"
